@@ -1,10 +1,7 @@
 #include "Include/Calculator/AddCalculation.hpp" 
 
-class AddCalculation : public Calculation { 
-public: 
-    AddCalculation() : Calculation();
+AddCalculation::AddCalculation() : Calculation() {};
 
-    int calculate(x, y) {
-        return -1; // TODO: Implement this function
-    }
-}
+int AddCalculation::calculate(int x, int y) {
+    return -1; // TODO: Implement this function
+};

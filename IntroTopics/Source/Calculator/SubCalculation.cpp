@@ -1,10 +1,8 @@
 #include "Include/Calculator/SubCalculation.hpp" 
 
-class SubCalculation : public Calculation { 
-public: 
-    SubCalculation() : Calculation(); 
+SubCalculation::SubCalculation() : Calculation() {} 
 
-    int calculate(x, y) {
-        return -1; // TODO: Implement this function
-    }
+int SubCalculation::calculate(int x, int y) {
+    return -1; // TODO: Implement this function
 }
+

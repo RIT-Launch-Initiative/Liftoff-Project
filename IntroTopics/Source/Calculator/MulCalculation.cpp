@@ -1,10 +1,7 @@
 #include "Include/Calculator/MulCalculation.hpp" 
 
-class MulCalculation : public Calculation {
-public: // public functions
-    MulCalculation() : Calculation();  
+MulCalculation::MulCalculation() : Calculation() {}  
 
-    int calculate(x, y) {
-        return -1; // TODO: Implement this function
-    }
+int MulCalculation::calculate(int x, int y) {
+    return -1; // TODO: Implement this function
 }

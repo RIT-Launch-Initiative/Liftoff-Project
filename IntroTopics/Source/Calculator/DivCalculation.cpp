@@ -1,10 +1,7 @@
 #include "Include/Calculator/DivCalculation.hpp" 
 
-class DivCalculation : public Calculation { 
-public: 
-    DivCalculation() : Calculation(); 
+DivCalculation::DivCalculation() : Calculation() {} 
 
-    int calculate(x, y) {
-        return -1; // TODO: Implement this function
-    }
+int DivCalculation::calculate(int x, int y) {
+    return -1; // TODO: Implement this function
 }

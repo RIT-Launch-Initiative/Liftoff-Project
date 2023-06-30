@@ -1,5 +1,10 @@
 #include "Include/Calculator/Calculation.hpp"
 
+typedef enum {
+    
+}
+
+
 class Calculator { // Defining a class named Calculator
 public: // Label for publicly accessible functions and variables
     Calculator(Calculation adder, Calculation subber, Calculation multer, Calculation divver); // Constructor for instantiating a Calculator

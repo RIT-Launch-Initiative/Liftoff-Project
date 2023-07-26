@@ -1,0 +1,6 @@
+
+5	cpp:S5421"!Global variables should be const.(ğ·ú
+;	cpp:S5421"!Global variables should be const.(ƒÁèùÿÿÿÿ
+6	cpp:S5421"!Global variables should be const.(­©®™
+L	cpp:S5945"2Use "std::string" instead of a C-style char array.(Êå¢»úÿÿÿÿ
+N	cpp:S5008 "9Replace this use of "void *" with a more meaningful type.(Ë¶±Ø

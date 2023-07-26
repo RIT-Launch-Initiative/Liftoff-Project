@@ -1,0 +1,33 @@
+
+K	cpp:S1117I"6declaration shadows a variable in the global namespace(ÿ³¬Ö
+l	cpp:S5276Ê"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Áƒ£f
+r	cpp:S5276Î"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(¸ÒÎöþÿÿÿÿ
+m	cpp:S5276Ò"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(þ¾…Ø
+r	cpp:S5276Ö"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ˆšƒäÿÿÿÿÿ
+m	cpp:S5276Ú"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ÙÚ—±
+m	cpp:S5276Þ"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Öœ…
++	cpp:S1481î"unused variable 'ret'(º»¢î
+x	cpp:S5276”"bimplicit conversion loses integer precision: 'int64_t' (aka 'long long') to 'int32_t' (aka 'long')(à¤ƒÝ
+l	cpp:S5276Ê"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Áƒ£f
+r	cpp:S5276Î"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(¸ÒÎöþÿÿÿÿ
+m	cpp:S5276Ò"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(þ¾…Ø
+r	cpp:S5276Ö"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ˆšƒäÿÿÿÿÿ
+m	cpp:S5276Ú"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ÙÚ—±
+m	cpp:S5276Þ"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Öœ…
++	cpp:S1481î"unused variable 'ret'(º»¢î
+x	cpp:S5276”"bimplicit conversion loses integer precision: 'int64_t' (aka 'long long') to 'int32_t' (aka 'long')(à¤ƒÝ
+l	cpp:S5276Ê"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Áƒ£f
+r	cpp:S5276Î"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(¸ÒÎöþÿÿÿÿ
+m	cpp:S5276Ò"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(þ¾…Ø
+r	cpp:S5276Ö"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ˆšƒäÿÿÿÿÿ
+m	cpp:S5276Ú"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ÙÚ—±
+m	cpp:S5276Þ"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(Öœ…
++	cpp:S1481î"unused variable 'ret'(º»¢î
+x	cpp:S5276”"bimplicit conversion loses integer precision: 'int64_t' (aka 'long long') to 'int32_t' (aka 'long')(à¤ƒÝ
+;	cpp:S3642"&Replace this "enum" with "enum class".(Ù»€ö
+P	cpp:S5416";"using" should be preferred to "typedef" for type aliasing.(Ù»€ö
+@	cpp:S3642+"&Replace this "enum" with "enum class".(ëÅ±Çùÿÿÿÿ
+;	cpp:S3642>"&Replace this "enum" with "enum class".(Ù»€ö
+P	cpp:S5416>";"using" should be preferred to "typedef" for type aliasing.(Ù»€ö
+H	cpp:S5945¥"2Use "std::string" instead of a C-style char array.(Í×£–
+k	cpp:S1871µ"VThe code of this "case" is a duplicate; refactor so that all "case" blocks are unique.(Êåü)

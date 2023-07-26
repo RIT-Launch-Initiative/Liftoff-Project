@@ -1,0 +1,32 @@
+
+„	cpp:S5276g"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(°ù„Ï
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276å"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ö˜ÿ„ùÿÿÿÿ
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276è"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(äŠ…óûÿÿÿÿ
+Š	cpp:S5276„"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ÓõÚ»øÿÿÿÿ
+„	cpp:S5276g"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(°ù„Ï
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276å"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ö˜ÿ„ùÿÿÿÿ
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276è"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(äŠ…óûÿÿÿÿ
+Š	cpp:S5276„"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ÓõÚ»øÿÿÿÿ
+„	cpp:S5276g"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(°ù„Ï
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276å"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ö˜ÿ„ùÿÿÿÿ
+„	cpp:S5276¦"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(Ù†Ò@
+Š	cpp:S5276è"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(äŠ…óûÿÿÿÿ
+Š	cpp:S5276„"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ÓõÚ»øÿÿÿÿ
+L	cpp:S3471"2Annotate this function with "override" or "final".(Í‘”¼ÿÿÿÿÿ
+L	cpp:S3471+"2Annotate this function with "override" or "final".(È‚û¥ıÿÿÿÿ
+G	cpp:S34711"2Annotate this function with "override" or "final".(Ô˜‚ö
+G	cpp:S34716"2Annotate this function with "override" or "final".(õîÌ
+L	cpp:S3471W"2Annotate this function with "override" or "final".(âØ¼ùÿÿÿÿ
+M	cpp:S3471•"2Annotate this function with "override" or "final".(µÀ•øÿÿÿÿ
+M	cpp:S3471Ô"2Annotate this function with "override" or "final".(ÛçŸêıÿÿÿÿ
+M	cpp:S3471•"2Annotate this function with "override" or "final".(ªì÷µûÿÿÿÿ
+M	cpp:S3471Ö"2Annotate this function with "override" or "final".(ÊÏ¨›şÿÿÿÿ
+M	cpp:S3471­"2Annotate this function with "override" or "final".(—©åòùÿÿÿÿ
+Š	cpp:S3230"pDo not use the constructor's initializer list for data member "m_blocked". Use the in-class initializer instead.(ÆËëúøÿÿÿÿ
+†	cpp:S3230"qDo not use the constructor's initializer list for data member "m_isr_flag". Use the in-class initializer instead.(ŞÄéò
+	cpp:S3230"mDo not use the constructor's initializer list for data member "m_lock". Use the in-class initializer instead.(Ûµ†O

@@ -1,0 +1,31 @@
+
+J	cpp:S1135È"4Complete the task associated to this "TODO" comment.(İ¨‹‹
+m	cpp:S5276Ÿ"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ˆÖÏÚ
+m	cpp:S5276¡"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(çùğí
+r	cpp:S5276¼"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ó×¹±ıÿÿÿÿ
+r	cpp:S5276Á"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(àÑî®ıÿÿÿÿ
+4	cpp:S1481æ"unused variable 'tempRet'(Ò¡Ì¿ıÿÿÿÿ
+„	cpp:S5276"iimplicit conversion from 'const uint64_t' (aka 'const unsigned long long') to 'double' may lose precision(‹˜–øÿÿÿÿ
+n	cpp:S5276´"Simplicit conversion from 'int64_t' (aka 'long long') to 'double' may lose precision(œ Îäûÿÿÿÿ
+J	cpp:S1135È"4Complete the task associated to this "TODO" comment.(İ¨‹‹
+m	cpp:S5276Ÿ"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ˆÖÏÚ
+m	cpp:S5276¡"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(çùğí
+r	cpp:S5276¼"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(ó×¹±ıÿÿÿÿ
+r	cpp:S5276Á"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(àÑî®ıÿÿÿÿ
+4	cpp:S1481æ"unused variable 'tempRet'(Ò¡Ì¿ıÿÿÿÿ
+„	cpp:S5276"iimplicit conversion from 'const uint64_t' (aka 'const unsigned long long') to 'double' may lose precision(‹˜–øÿÿÿÿ
+n	cpp:S5276´"Simplicit conversion from 'int64_t' (aka 'long long') to 'double' may lose precision(œ Îäûÿÿÿÿ
+r	cpp:S1448"]Class has 46 methods, which is greater than the 35 authorized. Split it into smaller classes.(ÁîªĞ
+M	cpp:S5945Ö"2Use "std::string" instead of a C-style char array.(³Äà“ıÿÿÿÿ
+M	cpp:S5945İ"2Use "std::string" instead of a C-style char array.(­ĞìÓıÿÿÿÿ
+H	cpp:S5955û"-Declare the variable "index" inside the loop.(„ÜøÎùÿÿÿÿ
+‰cpp:S995—"oMake the type of this parameter a pointer-to-const. The current type of "calibrationData" is "unsigned char *".(¤Ç¸›şÿÿÿÿ
+9	cpp:S1110­"#Remove these redundant parentheses.(ù­’†
+>	cpp:S1110³"#Remove these redundant parentheses.(¿˜äöúÿÿÿÿ
+‰cpp:S995å"tMake the type of this parameter a pointer-to-const. The current type of "uncompData" is "struct bmp3_uncomp_data *".(µªÕŸ
+>	cpp:S1110·"#Remove these redundant parentheses.(Ã¦¨ìıÿÿÿÿ
+S	cpp:S5945â"=Use "std::array" or "std::vector" instead of a C-style array.(Ç¤
+\	cpp:S1854æ"AValue stored to 'tempRet' during its initialization is never read(Ò¡Ì¿ıÿÿÿÿ
+Fcpp:S836ê",The right operand of '!=' is a garbage value(œ¸«¦úÿÿÿÿ
+9	cpp:S1854À"#Value stored to 'ret' is never read(ó¯«Æ
+9	cpp:S1854Å"#Value stored to 'ret' is never read(ó¯«Æ

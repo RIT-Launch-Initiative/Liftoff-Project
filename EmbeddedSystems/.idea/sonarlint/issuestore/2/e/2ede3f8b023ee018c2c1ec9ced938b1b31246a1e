@@ -1,0 +1,4 @@
+
+U	cpp:S5416";"using" should be preferred to "typedef" for type aliasing.(Òº¾“üÿÿÿÿ
+™	cpp:S5952"ƒAdd a using-declaration to this derived class to inherit the constructors of "Device", and remove the ones you manually duplicated.(ÎåÎ×
+D	cpp:S1709!"/Add the "explicit" keyword to this constructor.(–ëÁ·

@@ -1,0 +1,39 @@
+
+J	cpp:S1135¨"4Complete the task associated to this "TODO" comment.(ÙËõÚ
+J	cpp:S1135Á"4Complete the task associated to this "TODO" comment.(ÙËõÚ
+J	cpp:S1135Ü"4Complete the task associated to this "TODO" comment.(ÙËõÚ
+O	cpp:S1135î"4Complete the task associated to this "TODO" comment.(ƒ• ïùÿÿÿÿ
+O	cpp:S1135ñ"4Complete the task associated to this "TODO" comment.(‚îÕ¨ÿÿÿÿÿ
+O	cpp:S1135õ"4Complete the task associated to this "TODO" comment.(«ÅÓÿÿÿÿÿ
+O	cpp:S1135ÿ"4Complete the task associated to this "TODO" comment.(ƒ• ïùÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(€ˆ‹‰ıÿÿÿÿ
+W	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(£şíûÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(£şíûÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(„ÔÏ·ùÿÿÿÿ
+;	cpp:S5421&"!Global variables should be const.(ìĞ÷»øÿÿÿÿ
+I	cpp:S5421/"/Global pointers should be const at every level.(—‘°œşÿÿÿÿ
+g	cpp:S52053"MReplace this function pointer with a template parameter or a "std::function".(”…¨Ùúÿÿÿÿ
+b	cpp:S5205F"MReplace this function pointer with a template parameter or a "std::function".(Ø£»ê
+4	cpp:S4962P"Use the "nullptr" literal.(ÅÅËğÿÿÿÿÿ
+D	cpp:S5820b"/Convert this integer literal to a bool literal.(”õÑ
+4	cpp:S4962e"Use the "nullptr" literal.(ôèİ÷ıÿÿÿÿ
+6	cpp:S1116v"Remove this empty statement.(ÊéÄõüÿÿÿÿ
+.	cpp:S4962r"Use the "nullptr" literal.(˜ï’?
+V	cpp:S1751€"@Change this loop body so that it can be executed more than once.(”õÑ
+[cpp:S924€"FReduce the number of nested "break" statements from 3 to 1 authorized.(”õÑ
+E	cpp:S5820€"/Convert this integer literal to a bool literal.(”õÑ
+5	cpp:S4962†"Use the "nullptr" literal.(ôèİ÷ıÿÿÿÿ
+5	cpp:S4962"Use the "nullptr" literal.(°Î›İÿÿÿÿÿ
+0	cpp:S4962¬"Use the "nullptr" literal.(ë²²¨
+0	cpp:S4962°"Use the "nullptr" literal.(µÙÚ
+5	cpp:S4962³"Use the "nullptr" literal.(°Î›İÿÿÿÿÿ
+0	cpp:S4962È"Use the "nullptr" literal.(‰Ùß¥
+0	cpp:S4962Î"Use the "nullptr" literal.(ë²²¨
+/	cpp:S4962Ğ"Use the "nullptr" literal.(˜ï’?
+0	cpp:S4962à"Use the "nullptr" literal.(‰Ùß¥
+5	cpp:S4962â"Use the "nullptr" literal.(°Î›İÿÿÿÿÿ
+5	cpp:S4962ã"Use the "nullptr" literal.( Çİ¬şÿÿÿÿ
+/	cpp:S4962å"Use the "nullptr" literal.(˜ï’?
+N	cpp:S5008F"9Replace this use of "void *" with a more meaningful type.(Ø£»ê
+2cpp:S125K"Remove the commented out code.(¡öçç
+8cpp:S125ë"Remove the commented out code.(¶¤Á¾ùÿÿÿÿ

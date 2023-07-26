@@ -1,0 +1,121 @@
+
+M	cpp:S5028
+"8Replace this macro by "const", "constexpr" or an "enum".(¿ØÙ›
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ÿ§©ùÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ñÉ«r
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¼¸«X
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(çàÔ‡ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÎîÌÆ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(‡î¹
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ì¿“˜üÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÊåØx
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÉİîÀøÿÿÿÿ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¬¿û‹ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Øµø®
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Î´ÇÜ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(òÍüÿÿÿÿ
+I	cpp:S1135ä"4Complete the task associated to this "TODO" comment.(û ¬
+u	cpp:S5276 "_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(£­“Î
+u	cpp:S5276¡"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(ÛÏå
+u	cpp:S5276¢"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(Ø–›—
+k	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+k	cpp:S5276í"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+8cpp:S125â"Remove the commented out code.(ãÌµ¸øÿÿÿÿ
+M	cpp:S5028
+"8Replace this macro by "const", "constexpr" or an "enum".(¿ØÙ›
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ÿ§©ùÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ñÉ«r
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¼¸«X
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(çàÔ‡ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÎîÌÆ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(‡î¹
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ì¿“˜üÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÊåØx
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÉİîÀøÿÿÿÿ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¬¿û‹ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Øµø®
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Î´ÇÜ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(òÍüÿÿÿÿ
+I	cpp:S1135ä"4Complete the task associated to this "TODO" comment.(û ¬
+u	cpp:S5276 "_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(£­“Î
+u	cpp:S5276¡"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(ÛÏå
+u	cpp:S5276¢"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(Ø–›—
+k	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+k	cpp:S5276í"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+8cpp:S125â"Remove the commented out code.(ãÌµ¸øÿÿÿÿ
+M	cpp:S5028
+"8Replace this macro by "const", "constexpr" or an "enum".(¿ØÙ›
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ÿ§©ùÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ñÉ«r
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¼¸«X
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(çàÔ‡ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÎîÌÆ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(‡î¹
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Ì¿“˜üÿÿÿÿ
+L	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÊåØx
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(ÉİîÀøÿÿÿÿ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(¬¿û‹ÿÿÿÿÿ
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Øµø®
+M	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(Î´ÇÜ
+R	cpp:S5028"8Replace this macro by "const", "constexpr" or an "enum".(òÍüÿÿÿÿ
+I	cpp:S1135ä"4Complete the task associated to this "TODO" comment.(û ¬
+u	cpp:S5276 "_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(£­“Î
+u	cpp:S5276¡"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(ÛÏå
+u	cpp:S5276¢"_implicit conversion turns floating-point number into integer: 'float' to 'int32_t' (aka 'long')(Ø–›—
+k	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+k	cpp:S5276í"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÂÛ¡¤
+p	cpp:S5276÷"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(ÿŸ¿Şûÿÿÿÿ
+:	cpp:S3642""&Replace this "enum" with "enum class".(Æ­ç"
+@	cpp:S36421"&Replace this "enum" with "enum class".(å”µ÷şÿÿÿÿ
+m	cpp:S32298"SField "i2cAddr" is initialized before field "accelEnabled" and field "gyroEnabled".(±€”úÿÿÿÿ
+L	cpp:S3471;"2Annotate this function with "override" or "final".(Í‘”¼ÿÿÿÿÿ
+X	cpp:S5945¯"=Use "std::array" or "std::vector" instead of a C-style array.(÷é‰¢øÿÿÿÿ
+M	cpp:S5945É"2Use "std::string" instead of a C-style char array.(ë‡¼Öıÿÿÿÿ
+]	cpp:S3358€"GExtract this nested conditional operator into an independent statement.(ãúà¹
+]	cpp:S3358"GExtract this nested conditional operator into an independent statement.(öã½Í
+p	cpp:S3776"URefactor this function to reduce its Cognitive Complexity from 112 to the 25 allowed.(ı¾ ñüÿÿÿÿ
+]	cpp:S3358”"GExtract this nested conditional operator into an independent statement.(Ï¾¯‘
+b	cpp:S3358•"GExtract this nested conditional operator into an independent statement.(›‰øÿÿÿÿ
+b	cpp:S3358–"GExtract this nested conditional operator into an independent statement.(Öµëàûÿÿÿÿ
+]	cpp:S3358—"GExtract this nested conditional operator into an independent statement.(˜Ş¦
+]	cpp:S3358˜"GExtract this nested conditional operator into an independent statement.(¤ÄÃˆ
+]	cpp:S3358™"GExtract this nested conditional operator into an independent statement.(ƒ¸öÒ
+]	cpp:S3358š"GExtract this nested conditional operator into an independent statement.(Šèù¹
+]	cpp:S3358›"GExtract this nested conditional operator into an independent statement.(ß÷„Ä
+b	cpp:S3358¦"GExtract this nested conditional operator into an independent statement.(œİŞöùÿÿÿÿ
+]	cpp:S3358§"GExtract this nested conditional operator into an independent statement.(ÔÇäê
+b	cpp:S3358¨"GExtract this nested conditional operator into an independent statement.(Õí–Ùüÿÿÿÿ
+]	cpp:S3358©"GExtract this nested conditional operator into an independent statement.(æÕû
+b	cpp:S3358ª"GExtract this nested conditional operator into an independent statement.(á´ı²ıÿÿÿÿ
+b	cpp:S3358«"GExtract this nested conditional operator into an independent statement.(†ÌŞşÿÿÿÿ
+b	cpp:S3358¬"GExtract this nested conditional operator into an independent statement.(Áš˜Şüÿÿÿÿ
+b	cpp:S3358­"GExtract this nested conditional operator into an independent statement.(Ø¼Îøÿÿÿÿ
+X	cpp:S5945¼"=Use "std::array" or "std::vector" instead of a C-style array.(÷é‰¢øÿÿÿÿ
+M	cpp:S5945Ö"2Use "std::string" instead of a C-style char array.(ë‡¼Öıÿÿÿÿ
+]	cpp:S3358¤"GExtract this nested conditional operator into an independent statement.(ú°Áû
+b	cpp:S3358¥"GExtract this nested conditional operator into an independent statement.(‰¹®òøÿÿÿÿ
+k	cpp:S3776º"URefactor this function to reduce its Cognitive Complexity from 112 to the 25 allowed.(ÀØä™
+b	cpp:S3358¾"GExtract this nested conditional operator into an independent statement.(ªÅ¸éùÿÿÿÿ
+b	cpp:S3358¿"GExtract this nested conditional operator into an independent statement.(ûØ¸¿ıÿÿÿÿ
+b	cpp:S3358À"GExtract this nested conditional operator into an independent statement.(Øº„ÿıÿÿÿÿ
+]	cpp:S3358Á"GExtract this nested conditional operator into an independent statement.(ºéÏ
+]	cpp:S3358Â"GExtract this nested conditional operator into an independent statement.(Ó¢ô´
+]	cpp:S3358Ã"GExtract this nested conditional operator into an independent statement.(€ŸÁ—
+b	cpp:S3358Ä"GExtract this nested conditional operator into an independent statement.(­áç€üÿÿÿÿ
+b	cpp:S3358Å"GExtract this nested conditional operator into an independent statement.(Ÿá©ûÿÿÿÿ
+b	cpp:S3358Ğ"GExtract this nested conditional operator into an independent statement.(œİŞöùÿÿÿÿ
+]	cpp:S3358Ñ"GExtract this nested conditional operator into an independent statement.(ÔÇäê
+b	cpp:S3358Ò"GExtract this nested conditional operator into an independent statement.(Õí–Ùüÿÿÿÿ
+]	cpp:S3358Ó"GExtract this nested conditional operator into an independent statement.(æÕû
+b	cpp:S3358Ô"GExtract this nested conditional operator into an independent statement.(á´ı²ıÿÿÿÿ
+b	cpp:S3358Õ"GExtract this nested conditional operator into an independent statement.(†ÌŞşÿÿÿÿ
+\	cpp:S3358Ö"GExtract this nested conditional operator into an independent statement.(ö‘f
+b	cpp:S3358×"GExtract this nested conditional operator into an independent statement.(¯ÅÇ½şÿÿÿÿ
+Œ	cpp:S32308"rDo not use the constructor's initializer list for data member "gyroEnabled". Use the in-class initializer instead.(±€”úÿÿÿÿ
+	cpp:S32308"sDo not use the constructor's initializer list for data member "accelEnabled". Use the in-class initializer instead.(±€”úÿÿÿÿ
+8cpp:S125â"Remove the commented out code.(ãÌµ¸øÿÿÿÿ

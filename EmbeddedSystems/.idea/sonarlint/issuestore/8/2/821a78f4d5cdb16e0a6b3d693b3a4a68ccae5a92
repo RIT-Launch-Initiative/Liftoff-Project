@@ -1,0 +1,28 @@
+
+l	cpp:S5276{"Wimplicit conversion loses integer precision: 'int' to 'uint16_t' (aka 'unsigned short')(²úôó
+‰	cpp:S5276~"oimplicit conversion loses integer precision: 'size_t' (aka 'unsigned int') to 'uint16_t' (aka 'unsigned short')(ÂêŒøÿÿÿÿ
+6	cpp:S54211"!Global variables should be const.(÷ğ™•
+;	cpp:S54212"!Global variables should be const.(ã¦Œœøÿÿÿÿ
+6	cpp:S54215"!Global variables should be const.(ãØ‹²
+6	cpp:S54216"!Global variables should be const.(—ñ€Ÿ
+;	cpp:S54218"!Global variables should be const.(¨‡Áıÿÿÿÿ
+;	cpp:S54219"!Global variables should be const.(ÇõÀ­ıÿÿÿÿ
+6	cpp:S5421;"!Global variables should be const.( İ·ş
+;	cpp:S5421<"!Global variables should be const.(÷‹Ûıÿÿÿÿ
+6	cpp:S5421>"!Global variables should be const.(úÙ¤
+;	cpp:S5421?"!Global variables should be const.(Ñÿ‹üÿÿÿÿ
+„cpp:S995\"kMake the type of this parameter a pointer-to-const. The current type of this unnamed parameter is "void *".(èÿŞÿÿÿÿÿ
+…	cpp:S1116d"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(ÃôÚßüÿÿÿÿ
+cpp:S859j"hC-style cast removing const qualification from the type of a pointer may lead to an undefined behaviour.(ñş‰úıÿÿÿÿ
+cpp:S859l"hC-style cast removing const qualification from the type of a pointer may lead to an undefined behaviour.(ØçÕ†şÿÿÿÿ
+|cpp:S859n"hC-style cast removing const qualification from the type of a pointer may lead to an undefined behaviour.(¦Ş–Û
+cpp:S859p"hC-style cast removing const qualification from the type of a pointer may lead to an undefined behaviour.(Ç Õ¢ıÿÿÿÿ
+cpp:S859r"hC-style cast removing const qualification from the type of a pointer may lead to an undefined behaviour.(³ã´ùÿÿÿÿ
+G	cpp:S5945|"2Use "std::string" instead of a C-style char array.(§öñ£
+B	cpp:S3630}"-Replace "reinterpret_cast" with a safer cast.(Ûï’­
+G	cpp:S3630~"-Replace "reinterpret_cast" with a safer cast.(ÂêŒøÿÿÿÿ
+E	cpp:S5820º"/Convert this integer literal to a bool literal.(”õÑ
+_	cpp:S5271"Dfunction 'Error_Handler' could be declared with attribute 'noreturn'(ŞÒó­şÿÿÿÿ
+E	cpp:S5820’"/Convert this integer literal to a bool literal.(”õÑ
+qcpp:S108’"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(”õÑ
+2cpp:S125¯"Remove the commented out code.(…‚¬

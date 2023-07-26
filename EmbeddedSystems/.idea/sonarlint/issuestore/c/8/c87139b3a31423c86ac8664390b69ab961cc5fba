@@ -1,0 +1,7 @@
+
+Zc:S5271H"Bfunction 'NMI_Handler' could be declared with attribute 'noreturn'(­ˆ‘Ìþÿÿÿÿ
+nc:S108M"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(”õÑž
+gc:S5271U"Hfunction 'HardFault_Handler' could be declared with attribute 'noreturn'(×ëŒŽüÿÿÿÿ8ºÀ­ª˜1
+[c:S5271b"Hfunction 'MemManage_Handler' could be declared with attribute 'noreturn'(®Âˆû
+Zc:S5271o"Gfunction 'BusFault_Handler' could be declared with attribute 'noreturn'(¡¯½©
+\c:S5271|"Ifunction 'UsageFault_Handler' could be declared with attribute 'noreturn'(ÿòØØ

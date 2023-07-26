@@ -1,0 +1,14 @@
+/*******************************************************************************
+*
+*  Name: [FILENAME].[FILETYPE]
+*
+*  Purpose: [PURPOSE]
+*
+*  Author: [AUTHOR]
+*
+*  RIT Launch Initiative
+*
+*******************************************************************************/
+
+
+This file contains the standard file header for all source files

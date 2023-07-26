@@ -1,0 +1,62 @@
+Things that still need doing:
+
+• finish ARP layer
+ - in net/arp
+ - add reply functionality
+ - add request functionality
+ - allow tasks to block on waiting for an address to be populated (should have timeout too)
+
+• add ICMP layer
+
+• add IGMP layer?
+ - we may not need this
+ - if there's no routing between hosts, we don't need IGMP to create the multicast routes
+
+• add simple networking stack
+ - reference implementation (or usable in most cases)
+ - socket router <--> UDP router <--> IPv4 router <--> Ethernet layer
+                             ICMP <--/
+ - can add a device below the stack that handles layer 1
+
+• finish NIC driver
+ - Wiznet W5500 chip
+ - mostly care about using Socket 0 in raw mode
+
+• implement GPIODevice for stm32 HAL
+ - different kinds of GPIO should be implemented
+ - digital input
+ - digital output
+ - analog input (ADC)
+ - analog output (DAC)
+ - PWM
+
+• add a filesystem
+ - make under toplevel directory called "fs"
+ - should be device independent and take a single BlockDevice as input
+ - consider using an already existing standard like FAT/FAT32/exFAT etc.
+ - can be "write sequential / read sequential" i.e. we don't really need random access
+
+• string library
+ - put in top level directory called "string"
+ - should have a fixed size (no dynamic memory please!)
+ - overloading common operators is ideal
+ - overloading operator= is a must (but still no dynamic memory! just truncate if the copied string is too large)
+ - Aaron is working on this at the moment
+
+• clock synchronization
+ - we may need a way to synchronize the clocks on each module
+ - this clock should only really be used for logging and maybe controls, i.e. don't readjust the clock the scheduler uses
+ - perhaps just store an offset to the local system clock? and then calculate the "global time" with that?
+ - needs to be distributed and decentralized, we can't have a single time source server
+ - look into global average and local average algorithms
+ - probably can't (or shouldn't) ignore the latency between modules, especially with low power NICs and custom software
+ - if we ignore latency, we also make the system less modular since the speed of any given module effects the accuracy of this algorithm
+
+
+
+Things that needed doing but are now done:
+
+• add GPIO device abstraction
+ - probably per pin, pins can be looked up by device string name
+ - should just have a set and a get
+ - done 9/18/22, see device/GPIODevice.h
